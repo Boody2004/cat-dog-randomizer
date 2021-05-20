@@ -9,10 +9,11 @@
 
 ### Animals
 
-<b>[RandomCat json api ](https://aws.random.cat/meow)</b>
-<b> [RandomDog json api](https://random.dog/woof.json)</b>
+* <b>[RandomCat json api ](https://aws.random.cat/meow)</b>
+
+* <b> [RandomDog json api](https://random.dog/woof.json)</b>
 
 ---
-![Design preview for the Profile card component coding challenge](./img1.jpg)
+![Design preview for the Profile card component coding challenge](./img1jpg)
 ![Design preview for the Profile card component coding challenge](./img2.jpg)
 ![Design preview for the Profile card component coding challenge](./img3.jpg)
