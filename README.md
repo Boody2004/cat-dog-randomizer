@@ -11,7 +11,7 @@
 
 * <b>[RandomCat json api ](https://aws.random.cat/meow)</b>
 
-* <b> [RandomDog json api](https://random.dog/woof.json)</b>
+ <b> [RandomDog json api](https://random.dog/woof.json)</b>
 
 ---
 ![Design preview for the Profile card component coding challenge](./img1jpg)
